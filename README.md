@@ -62,7 +62,6 @@ A listing of awesome women. Specifically to encourage naming tech projects after
 
 ## R
 
-* Rea Carey - #US #LGBTQ #Caucasian - Executive Director of the National LGBTQ Task Force
 * Ensign Ro Laren - #US #Fictional - 
 * Rosa Parks - #US #Civil_Rights #Historical #African-American - 
 
